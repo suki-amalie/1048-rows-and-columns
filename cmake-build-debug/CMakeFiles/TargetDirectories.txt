@@ -1,0 +1,3 @@
+C:/Users/ADMIN/CLionProjects/rows_n_columns/cmake-build-debug/CMakeFiles/rows_n_columns.dir
+C:/Users/ADMIN/CLionProjects/rows_n_columns/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ADMIN/CLionProjects/rows_n_columns/cmake-build-debug/CMakeFiles/rebuild_cache.dir
